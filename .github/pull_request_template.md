@@ -6,6 +6,6 @@ close <!-- write here relational issue -->
 
 - [ ] 
 
-## What do you want to review deeply?
+## What do you want to be reviewed deeply?
 
 ## Anything else?
