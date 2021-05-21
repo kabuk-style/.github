@@ -1,5 +1,5 @@
 ---
-name: "�🏡 nw-control"
+name: "🏡 nw-control"
 about: nw-control 関連のissueを作る際のテンプレート
 title: WBS番号(例)4.1_タスク名(Task description)
 labels: 
