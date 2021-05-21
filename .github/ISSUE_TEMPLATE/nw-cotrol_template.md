@@ -1,7 +1,7 @@
 ---
 name: "\U0001F5FE nw-control"
 about: nw-control 関連のissueを作る際のテンプレート
-title: 施設名_都道府県名_市区町村名
+title: WBS番号(例)4.1_タスク名(Task description)
 labels: 
 assignees: ''
 
